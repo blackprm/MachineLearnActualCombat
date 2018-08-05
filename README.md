@@ -8,3 +8,4 @@ Learning  machinelearn to actual combat
     多行文本
     多行文本
 文字不高亮 `文字高亮`
+[超链接文字](http:/www.baidu.com)
