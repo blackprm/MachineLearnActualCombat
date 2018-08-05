@@ -14,4 +14,4 @@ Learning  machinelearn to actual combat
 >缩进
 >>2
 >>>233 
-[![baidu](http://baidu.com)（http://www.baidu.com/img/bdlogo.gif "百度Logo" ）](http"/www.baidu.com)
+[![baidu]（http://www.baidu.com/img/bdlogo.gif "百度Logo" ）](http"/www.baidu.com)
