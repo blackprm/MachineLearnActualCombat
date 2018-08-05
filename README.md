@@ -13,6 +13,5 @@ Learning  machinelearn to actual combat
     * 我是圆点
 >缩进
 >>2
->>>233
-![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")  
+>>>233 
 [![baidu]](http://baidu.com)（http://www.baidu.com/img/bdlogo.gif "百度Logo" ）
