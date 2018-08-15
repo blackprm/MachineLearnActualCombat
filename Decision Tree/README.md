@@ -1,4 +1,5 @@
 决策树
 ====
 首先要要明白一个概念，什么叫做`信息熵 `<br>
-先看百度百科的回答[信息熵](https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E7%86%B5/7302318?fr=aladdin)
+先看百度百科的回答[信息熵](https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E7%86%B5/7302318?fr=aladdin)<br>
+    简单的来说信息熵就是用来描述信息系统混乱度的一个量，信息熵越大，系统内信息就越混乱
